@@ -1,0 +1,8 @@
+com\daonguyen\jdbc\JDBCConnection.class
+com\daonguyen\entity\Role.class
+com\daonguyen\dao\UserDao.class
+com\daonguyen\dao\RoleDao.class
+com\daonguyen\servlet\UserServlet.class
+com\daonguyen\entity\User.class
+com\daonguyen\servlet\HomeServlet.class
+com\daonguyen\servlet\RoleServlet.class
